@@ -1,4 +1,4 @@
-* Bullet point ARI MUUTTAA
+* Bullet point ARI MUUTTAA Development
 1. Luettelo
 2. Luettelo 2
 
