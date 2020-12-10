@@ -1,4 +1,4 @@
-* Bullet point ARI MUUTTAA
+* Bullet point ARI MUUTTAA dev branch
 1. Luettelo
 2. Luettelo 2
 
