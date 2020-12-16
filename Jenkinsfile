@@ -7,9 +7,15 @@ pipeline {
 
   }
   stages {
-    stage('') {
+    stage('error') {
       steps {
         sh 'npm install'
+      }
+    }
+
+    stage('Delivery') {
+      steps {
+        sh 'npm start'
       }
     }
 
